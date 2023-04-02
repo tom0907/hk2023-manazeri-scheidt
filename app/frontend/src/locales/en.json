@@ -1,0 +1,40 @@
+{
+  "NavigationBar":{
+    "SignUp": "Sign Up",
+    "Registration": "Registration"
+  },
+  "WelcomePage":{
+    "Humidity":"Humidity",
+    "Start":"Start",
+    "Destination":"Destination",
+    "Car":"Car",
+    "PublicTransport":"Public Transport",
+    "OnFoot":"On Foot",
+    "Services":"Services",
+    "Cafe":"Cafe",
+    "Bar":"Bar",
+    "Hospital":"Hospital",
+    "School":"School",
+    "Bank":"Bank",
+    "Pharmacy":"Pharmacy",
+    "Supermarket":"Supermarket",
+    "FastFood":"Fast Food",
+    "Cinema":"Cinema",
+    "GasStation":"Gas Station",
+    "Go":"Go",
+    "BusLines":"Bus lines on this stop",
+    "BusStops":"Bus stops",
+    "ServicesOnRoute":"Services on this route",
+    "Name":"Name",
+    "Password":"Password",
+    "SignUp":"Sign Up",
+    "Notif":"Wrong name or password",
+    "NoAcc":"Don't have an account?",
+    "CreateAcc":"Create one",
+    "MainText":"Some people look for a beautiful place. Others make a place beautiful.-Hazrat Inavat Khan "
+  },
+  "Other":{
+    "ListOfFavorites":"List of favorites",
+    "Footer":"Kontakty"
+  }
+}

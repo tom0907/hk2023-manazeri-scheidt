@@ -1,0 +1,40 @@
+{
+  "NavigationBar":{
+    "SignUp": "Prihlasenie",
+    "Registration": "Zaregistrovat"
+  },
+  "WelcomePage":{
+    "Humidity":"Vlhkost",
+    "Start":"Štart",
+    "Destination":"Cieľ",
+    "Car":"Auto",
+    "PublicTransport":"MHD",
+    "OnFoot":"Pešo",
+    "Services":"Služby",
+    "Cafe":"Kaviareň",
+    "Bar":"Bar",
+    "Hospital":"Nemocnica",
+    "School":"Škola",
+    "Bank":"Banka",
+    "Pharmacy":"Lekáreň",
+    "Supermarket":"Supermarket",
+    "FastFood":"Rýchle občerstvenie",
+    "Cinema":"Kino",
+    "GasStation":"Benzínová pumpa",
+    "Go":"Nájdi",
+    "BusLines":"Linky na tejto zastávke",
+    "BusStops":"Zastávky",
+    "ServicesOnRoute": "Služby po tejto trase",
+    "Name":"Meno",
+    "Password":"Heslo",
+    "SignUp":"Prihlasit",
+    "Notif":"Zle meno alebo heslo",
+    "NoAcc":"Nemas este ucet?",
+    "CreateAcc":"Registracia",
+    "MainText":"Some people look for a beautiful place. Others make a place beautiful.-Hazrat Inavat Khan "
+  },
+  "Other":{
+    "ListOfFavorites":"Zoznam oblubenych eventov",
+    "Footer":"Kontakty"
+  }
+}
